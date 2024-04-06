@@ -1,0 +1,98 @@
+* {
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: #FFFFFF;
+    width: 1440px;
+    height: 64px;
+
+
+}
+
+.navdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo a {
+    color: #651FFF;
+    margin-left: 29px;
+    font-family: "Mochiy Pop One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 29px;
+    line-height: 41.99px;
+}
+
+li {
+    height: 24px;
+    
+    list-style: none;
+    display: inline-block;
+    line-height: 24px;
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-bottom: 17px;
+    margin-left: 1px;
+}
+
+li a {
+    color: #5C5F6E;
+    font-size: 16px;
+   
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-right: 17px;
+    
+
+}
+
+
+.sign_button {
+
+    margin: 2px;
+    border-radius: 12px;
+    padding: 17px, 9px, 17px;
+    border-color: solid #0B0D0E;
+    width: 112px;
+    height: 42px;
+    float: left;
+    margin-top: 11px;
+    margin-right: 24px;
+
+}
+
+.sign_button a {
+    color: #0B0D0E;
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700px;
+    text-align: center;
+    line-height: 24px;
+
+
+}
+
+.create_button {
+    width: 194px;
+    height: 42px;
+    background-color: #651FFF;
+    border-radius: 12px;
+    Padding: 9px, 17px, 9px, 17px;
+    margin-top: 11px;
+    margin-right: 14px;
+}
+
+.create_button a {
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    line-height: 24px;
+    letter-spacing: -3%;
+}
